@@ -7,6 +7,13 @@ Here are some ideas to get you started:
 
 ![](http://antzuhl.cn:4000/get/@kunpeng9.readme)
 
+![](https://visitor-badge.glitch.me/badge?page_id=kunpeng9.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=kunpeng9&show_icons=true&count_private=true&hide=prs&theme=dark_repocard)
+
+# 游戏
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
